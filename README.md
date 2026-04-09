@@ -29,6 +29,8 @@ The system also incorporates smart features to improve the user experience and o
 - Add to cart & order placement
 - Order tracking system
 
+---
+
 ### 🚀 Smart Features
 - 🎤 **Voice Ordering** – Order food using voice commands  
 - 🍱 **Micro-Order Mode** – Choose half/full portion  
@@ -68,8 +70,6 @@ Yumora/
 ├── backend/ (optional Spring Boot project)
 │
 └── README.md
-
----
 
 ---
 
