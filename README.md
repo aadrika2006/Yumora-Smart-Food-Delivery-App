@@ -82,13 +82,3 @@ Yumora/
 
 ---
 
-### 🔹 Steps to Run the App
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/Yumora-Food-Delivery-App.git
-2. Open the project in Android Studio
-3. Sync Gradle files
-4. Run the app on:
-  Emulator
-  OR Physical Android device
